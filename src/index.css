@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  /* Primary */
+
+  --color-Green400: #26c0ab;
+
+  /* Neutral */
+
+  --color-Green900: #00494d;
+  --color-Grey500: #5e7a7d;
+  --color-Grey400: #7f9c9f;
+  --color-Grey200: #c5e4e7;
+  --color-Grey50: #f4fafb;
+  --color-White: #ffffff;
+
+  /* font */
+
+  --font-display: "Space Mono", monospace;
+}
